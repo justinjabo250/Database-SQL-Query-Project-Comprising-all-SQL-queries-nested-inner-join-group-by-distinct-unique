@@ -53,7 +53,7 @@
 10. **Finally, which wallets sent more than 1,000,000 CFA in transfers in the first quarter (as identified by the source_wallet_id column on the transfers table), and how much did they send?** 
 
 
-------------
+![databasebb](https://github.com/justinjabo250/Database-SQL-Query-Project-Comprising-all-SQL-queries-nested-inner-join-group-by-distinct-unique/assets/115732734/101a1c8a-ea1b-44cb-b0b0-f1c59348a099)
 
 
 ### These are the extra business questions that require database analysis and SQL to be answered. Furthermore, I intend to sort the aggregate fields in decreasing order. To ensure consistency, It should be noted that while I execute each step using the SQL Sandbox using a SQLite database, I will also be using a PostgreSQL database server.
